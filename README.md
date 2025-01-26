@@ -1,6 +1,10 @@
 
 ---
 
+
+https://github.com/user-attachments/assets/12ca25ec-5246-4743-96df-a5bb305c889a
+
+
 # 📝 Notes App
 
 Welcome to the Notes App! This application allows users to manage their notes with ease. From creating new notes to searching, updating, and deleting them, everything is designed to be intuitive and user-friendly. The backend is powered by Express.js and MongoDB, providing a robust foundation for data storage and retrieval.
